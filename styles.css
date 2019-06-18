@@ -1,0 +1,37 @@
+body {
+    text-align: center;
+    background: url("https://i2.wp.com/kpsu.org/wp-content/uploads/2015/10/WU-TANG-LOGO.png");
+    color: white;
+}
+
+.odb {
+    width: 640px;
+    height: 480px;
+}
+
+.moe {
+    width: 600px;
+    height: 530px;
+}
+
+.wizard {
+    border: 5px dashed yellow;
+    color: white;
+    margin: 20px;
+}
+
+button {
+    width: 300px;
+    height: 40px;
+    font-family: 'Abril Fatface', cursive;
+    background-color: #4295f4;
+    margin: 10px;
+}
+
+h1 {
+     font-family: 'Libre Barcode 128 Text', cursive;
+}
+
+h2 {
+    font-family: 'Lobster', cursive;
+}
